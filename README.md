@@ -1,2 +1,2 @@
-# Face-recognition-SVD
-Trabalho Álgebra Linear
+# Face recognition using SVD
+Linear Algebra
